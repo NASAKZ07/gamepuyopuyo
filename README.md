@@ -1,2 +1,3 @@
 # gamepuyopuyo
-Mukhit Dias &amp; Sabina Tashieva
+ISCS-1904R
+Mukhit Dias &amp; Sabina Tashiyeva
